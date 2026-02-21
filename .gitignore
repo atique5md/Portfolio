@@ -26,5 +26,5 @@ yarn-error.log*
 *.swp
 *.swo
 *~
-.public
-.assets
+public/
+assets/
