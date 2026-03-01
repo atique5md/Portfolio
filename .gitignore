@@ -27,5 +27,5 @@ yarn-error.log*
 *.swo
 *~
 #file
-/public
-/assets
+public/
+assets/
