@@ -92,7 +92,7 @@ const Contact = () => {
           color: '#666',
           letterSpacing: '0.05em'
         }}>
-          © 2025 MdAtique. All rights reserved.
+          © 2026 MdAtique. All rights reserved.
         </div>
       </div>
     </section>
