@@ -25,6 +25,8 @@ Before running this project, make sure you have:
 - Node.js (v14 or higher)
 - npm or yarn
 
+# Want to Clone this Project Follow this Steps
+
 ## 🔧 Installation & Setup
 
 1. **Extract the portfolio-app folder** to your desired location
