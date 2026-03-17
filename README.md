@@ -2,14 +2,14 @@
 
 A modern, responsive portfolio website built with React featuring 3D animations and smooth interactions.
 
-## 🚀 Features
+##  Features
 
-- ✨ Modern and clean design with 3D particle animations
-- 📱 Fully responsive (mobile, tablet, desktop)
-- 🎨 Smooth scrolling and animations
-- 💼 Sections: Home, About, Skills, Projects, Resume, Contact
-- 📥 Resume download functionality
-- 🎯 Interactive hover effects
+-  Modern and clean design with 3D particle animations
+-  Fully responsive (mobile, tablet, desktop)
+-  Smooth scrolling and animations
+-  Sections: Home, About, Skills, Projects, Resume, Contact
+-  Resume download functionality
+-  Interactive hover effects
 
 ## 🛠️ Technologies Used
 
@@ -18,7 +18,7 @@ A modern, responsive portfolio website built with React featuring 3D animations 
 - **CSS3** - Styling and animations
 - **HTML Canvas** - 3D particle effects
 
-## 📋 Prerequisites
+##  Prerequisites
 
 Before running this project, make sure you have:
 
@@ -27,7 +27,7 @@ Before running this project, make sure you have:
 
 # Want to Clone this Project Follow this Steps
 
-## 🔧 Installation & Setup
+##  Installation & Setup
 
 1. **Extract the portfolio-app folder** to your desired location
 
@@ -59,7 +59,7 @@ Before running this project, make sure you have:
    http://localhost:3000
    ```
 
-## 📝 Customization Guide
+##  Customization Guide
 
 ### 1. Update Personal Information
 
@@ -78,28 +78,12 @@ Before running this project, make sure you have:
 ### 2. Add Your Projects
 
 Edit `src/components/Projects.jsx`:
-```javascript
-const projects = [
-  {
-    title: "Your Project Name",
-    description: "Your project description",
-    tech: ["Tech1", "Tech2", "Tech3"],
-    github: "https://github.com/yourusername/project",
-    live: "https://yourproject.com"
-  },
-  // Add more projects...
-];
-```
+
 
 ### 3. Update Skills
 
 Edit `src/components/Skills.jsx`:
-```javascript
-const skills = {
-  "Category Name": ["Skill1", "Skill2", "Skill3"],
-  // Add more categories...
-};
-```
+
 
 ### 4. Add Your Resume
 
@@ -116,7 +100,7 @@ const skills = {
 - Modify gradient colors in individual components
 - Update font family in CSS files
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 portfolio-app/
@@ -150,15 +134,6 @@ npm run build
 
 This will create a `build` folder with optimized files ready for deployment.
 
-## 🌐 Deployment
-
-You can deploy this portfolio to:
-
-- **Vercel**: `npm install -g vercel` then `vercel`
-- **Netlify**: Drag and drop the `build` folder
-- **GitHub Pages**: Use `gh-pages` package
-- **Heroku, AWS, or any static hosting service**
-
 ## 📦 Dependencies
 
 ```json
@@ -170,7 +145,7 @@ You can deploy this portfolio to:
 }
 ```
 
-## 🎨 Component Breakdown
+##  Component Breakdown
 
 - **Navbar**: Fixed navigation with active section highlighting
 - **Hero**: Landing section with 3D particle animation
@@ -180,14 +155,8 @@ You can deploy this portfolio to:
 - **Resume**: Download section with animated icon
 - **Contact**: Social links and contact information
 
-## 💡 Tips
 
-- Replace `#` links in projects with your actual GitHub/live demo URLs
-- Update meta tags in `public/index.html` for better SEO
-- Add favicon and app icons in the `public` folder
-- Test on different devices for responsive design
-
-## 📧 Support
+##  Support
 
 If you encounter any issues, feel free to:
 - Check the console for errors
